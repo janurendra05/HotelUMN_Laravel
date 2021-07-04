@@ -1,7 +1,7 @@
 # HotelUMN_Laravel
 
 
-Link website: https://icemoney.epizy.com
+Link website: http://icemoney.epizy.com/
 
 Project Laravel
 
